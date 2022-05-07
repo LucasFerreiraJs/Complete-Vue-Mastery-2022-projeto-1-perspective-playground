@@ -3,7 +3,7 @@
 
 ## Preview 📸
 <div align="center" style="display:flex; justify-content: space-between; margin:0 auto;" >
-  <img src="src/assets/pespective.png" style="margin-right: 10px;" alt="Alura-Tracker-tarefas" >
+  <img src="./pespective.png" style="margin-right: 10px;" alt="perspective" >
 </div>
 
 ## Sobre o Projeto
